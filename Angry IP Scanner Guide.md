@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Angry IP Scanner Guide
 
 Angry IP Scanner is a free, open-source tool for scanning IP addresses and ports on local networks or public ranges. This guide transcribes a YouTube tutorial on its use for discovering devices and open services to "win arguments online" by gathering network facts.
