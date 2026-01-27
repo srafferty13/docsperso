@@ -27,10 +27,10 @@ http://127.0.0.1:8000/
 
 before starting dont forget to select the right settings in the webgui
 
-for `Model Provider` select `Ollama`
-for `TTS Provider` select `Kokoro-TTS`
-for `Ollama Model` select the model you want to use
-and for `Transcription` select `Local Faster Whisper`
+- for `Model Provider` select `Ollama`
+- for `TTS Provider` select `Kokoro-TTS`
+- for `Ollama Model` select the model you want to use
+- and for `Transcription` select `Local Faster Whisper`
 
 ## Shutdown
 
