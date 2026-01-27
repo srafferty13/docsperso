@@ -10,6 +10,8 @@ first make sure these programs are running
 then execute these commands in powershell
 ```
 docker run -d --name kokoro-tts -p 8880:8880 ghcr.io/remsky/kokoro-fastapi-cpu:latest
+#or if the docker already exists
+docker start kokoro-tts
 
 venv\Scripts\activate
 cd .\voice-chat-ai\
