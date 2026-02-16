@@ -1,8 +1,4 @@
-## Free Housing When Vagabonding – Quick Guide
-
-A simple reference for finding **free (or almost free)** places to stay while traveling slow and cheap.
-
-***
+# Free Housing When Vagabonding – Quick Guide
 
 ## 1. Couchsurfing \& Hospitality Exchanges
 
